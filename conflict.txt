@@ -1,2 +1,3 @@
 conflcit mesage
 changes in conflcit file
+another conflcit message
