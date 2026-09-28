@@ -1,0 +1,83 @@
+    1  git init
+    2  git status
+    3  git add .
+    4  git statu
+    5  git status
+    6  git commit -m 'Initial Commit'
+    7  git remote add origin 'https://github.com/satya1974/Sample.git'
+    8  git remote add origin https://github.com/satya1974/Sample.git
+    9  git branch -M main
+   10  git status
+   11  git push -u origin main
+   12  git push -u origin main
+   13  got conifg --global user.name "Satya"
+   14  git config --global user.name 'Satya'
+   15  git config user.name
+   16  git config --global user.name 'balasivasatyabondalapati@gmail.com'
+   17  git config user.email
+   18  git config user.name
+   19  git conig --global user.name 'Satya'
+   20  git config --global user.name 'Satya'
+   21  git config --global user.email 'balasivasatyabondalapati@gmail.com'
+   22  git config user.name
+   23  git config --global user.email
+   24  git config --global user.name 'satya1974'
+   25  git init 
+   26  git status
+   27  git config user.email
+   28  ls
+   29  cd Devops/
+   30  mkdir Exp_1
+   31  cd Exp_1/
+   32  git --version 
+   33  git config --global user.name 'satya1974
+   34  git config --global user.email 'balasivasatyabondalapati@gmail.com'
+   35  git config --global user.name
+   36  git config --global user.email
+   37  git init
+   38  echo 'Hardest Choices REquires Strongest Will' > 'sample.txt'
+   39  git add sample.txt 
+   40  git status
+   41  git commit -m 'Initial Commit'
+   42  git status
+   43  git branch -m Main
+   44  git remote add origin https://github.com/satya1974/sampe_repo.git
+   45  git push -u origin main
+   46  git push -u origin main
+   47  git branch
+   48  [200~git branch -m master main
+   49  git branch -m Main
+   50  git push -u origin main
+   51  git remote add origin https://github.com/satya1974/sampe_repo.git
+   52  git branch -m master Main
+   53  git push -u origin main
+   54  cd Devops/
+   55  mkdir Exp_1
+   56  git --version
+   57  git config --global user.name 'satya1974'
+   58  git config --global user.naem
+   59  git config --global user.name
+   60  cd devops
+   61  mkdir Exp_1\
+   62  mkdir Exp_1
+   63  cd Exp_1/
+   64  git --version
+   65  git init
+   66  cd ..
+   67  git config --global user.name 'satya1974'
+   68  git config --global user.name
+   69  git config --global user.email 'balasivasatyabondalapati@gmail.com'
+   70  git config --global user.email
+   71  cd cd Exp_1/
+   72  cd Exp_1/
+   73  git init
+   74  echo 
+   75  echo 'Hardest Choices Requires Strongest Will' > sample.txt
+   76  git add sample.txt
+   77  git status
+   78  git commit -m 'Initial COmmit'
+   79  git log
+   80  git remote add origin https://github.com/satya1974/sampe_repo.git
+   81  git branch -M main
+   82  git push -u origin main
+   83  history > command_history.txt
